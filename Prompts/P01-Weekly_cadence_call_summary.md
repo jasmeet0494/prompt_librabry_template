@@ -3,12 +3,12 @@
 - **Section**: 01 — Revenue Cadence Meetings
 - **Workflow step**: Step 1 of 3
 - **Current version**: v1.2
-- **Status**: Tested and suitable with human review
+- **Status**: ✅ Tested and suitable with human review
 - **Last updated**: March 2026
 
 ---
 
-## Prompt Text (v1.2 — current)
+## 📌 Prompt Text (v1.2 — current)
 
 You are a finance PMO supporting a weekly revenue cadence meeting involving finance, sales, and delivery teams.
 
@@ -34,7 +34,7 @@ Placeholders to fill:
 
 ---
 
-## Intended Workflow or Task
+## 🏢 Intended Workflow or Task
 
 This prompt supports the documentation stage of a recurring weekly revenue cadence meeting.
 
@@ -48,7 +48,7 @@ Cadence call held → transcript/raw notes available → prompt runs → analyst
 
 ---
 
-## Problem Being Solved
+## ❗Problem Being Solved
 
 Weekly cadence calls often involve several stakeholders discussing revenue performance, delivery challenges, sales pipeline movement, and required follow-up actions.
 
@@ -65,7 +65,7 @@ In practice, one person often needs to listen carefully during the call, take no
 
 ---
 
-## Automation Potential
+## ⚡Automation Potential
 
 Level: High, with human review required
 
@@ -88,7 +88,7 @@ If a business runs multiple cadence calls each week across regions or accounts, 
 
 ---
 
-## Risks and Limitations
+## ⚠️ Risks and Limitations
 
 | **Risk**                                                | **Mitigation**                                                                                      |
 |---------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -102,7 +102,7 @@ Overall risk rating: Medium - suitable for partial automation with mandatory hum
 
 ---
 
-## Version History
+## 🔄 Version History
 
 ### v1.0 — Initial draft
 
