@@ -1,10 +1,10 @@
 # P01 · Weekly cadence call summary and action tracker
 
-**Section**: 01 — Revenue Cadence Meetings
-**Workflow step**: Step 1 of 3
-**Current version**: v1.2
-**Status**: Tested and suitable with human review
-**Last updated**: March 2026
+- **Section**: 01 — Revenue Cadence Meetings
+- **Workflow step**: Step 1 of 3
+- **Current version**: v1.2
+- **Status**: Tested and suitable with human review
+- **Last updated**: March 2026
 
 ---
 
