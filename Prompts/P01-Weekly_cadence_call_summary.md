@@ -17,11 +17,11 @@ Your task is to convert the [MEETING_TRANSCRIPT] or [RAW_NOTES] into a clear, ma
 Include the following sections: 
 1. Meeting Summary (2 -3 sentences what the meeting covered)
 2. Key Discussion Points ( Group the discussion under these heading where relevant )
-    - Finance Forecast Updates
-    - Delivery Forecast Updates
-    - Sales Forecast Updates
-    - Orderbook Status
-    - Status of Deals in Pipeline
+   - Finance Forecast Updates
+   - Delivery Forecast Updates
+   - Sales Forecast Updates
+   - Orderbook Status
+   - Status of Deals in Pipeline
 3. Action Items (Create a table with Action, Owner, Deadline (If Mentioned), Status Note)
 
 Tone: concise, factual and professional
@@ -106,11 +106,11 @@ Overall risk rating: Medium - suitable for partial automation with mandatory hum
 
 ### v1.0 — Initial draft
 
-**Date**: 20 March 2026
-**Prompt**: “Summarise the meeting notes and write action items.”
-**Output**:Too generic. Important financial issues were sometimes merged into one broad summary. Action items were incomplete and owners were often missing.
-**Observed effect**: Still required major manual rewriting.
-**Lesson learned**: The prompt needed structure, role assignment, and explicit output sections.
+- **Date**: 20 March 2026
+- **Prompt**: “Summarise the meeting notes and write action items.”
+- **Output**:Too generic. Important financial issues were sometimes merged into one broad summary. Action items were incomplete and owners were often missing.
+- **Observed effect**: Still required major manual rewriting.
+- **Lesson learned**: The prompt needed structure, role assignment, and explicit output sections.
 
 ### v1.1 — Added role, sections, and constraints
 
