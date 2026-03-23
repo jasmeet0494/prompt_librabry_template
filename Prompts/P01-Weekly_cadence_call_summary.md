@@ -48,7 +48,7 @@ Cadence call held → transcript/raw notes available → prompt runs → analyst
 
 ---
 
-# Problem Being Solved
+## Problem Being Solved
 
 Weekly cadence calls often involve several stakeholders discussing revenue performance, delivery challenges, sales pipeline movement, and required follow-up actions.
 
