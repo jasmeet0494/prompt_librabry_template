@@ -114,19 +114,20 @@ Overall risk rating: Medium - suitable for partial automation with mandatory hum
 
 ### v1.1 — Added role, sections, and constraints
 
-**Date**: 22 March 2026
-**Change made**: Added role framing (“finance business partner”), required output headings, and instruction not to invent missing details.
-**Output**: Much clearer structure. Action items improved, but some outputs still mixed operational updates with decisions, making them harder to circulate.
-**Observed effect**: Editing time reduced, but reviewer still had to reorganise content.
-**Lesson learned**: The prompt needed stronger categorisation and a separate executive summary.
+- **Date**: 22 March 2026
+- **Change made**: Added role framing (“finance business partner”), required output headings, and instruction not to invent missing details.
+- **Output**: Much clearer structure. Action items improved, but some outputs still mixed operational updates with decisions, making them harder to circulate.
+- **Observed effect**: Editing time reduced, but reviewer still had to reorganise content.
+- **Lesson learned**: The prompt needed stronger categorisation and a separate executive summary.
 
 ### v1.2 — Added category grouping and executive summary
 
-**Date**: 23 March 2026
-**Change made**: Added grouped headings for finance, sales, delivery, revenue risks, decisions made, and unresolved items. Also added a 120-word executive summary.
-**Output**: More structured, easier to circulate, and closer to a management-ready format.
-**Observed effect**: Reduced post-meeting editing and improved consistency across outputs.
-**Lesson learned**: Structured sections and explicit exclusions make prompt outputs more reliable for recurring business workflows.
+- **Date**: 23 March 2026
+- **Change made**: Added grouped headings for finance, sales, delivery, revenue risks, decisions made, and unresolved items. Also added a 120-word executive
+  summary.
+- **Output**: More structured, easier to circulate, and closer to a management-ready format.
+- **Observed effect**: Reduced post-meeting editing and improved consistency across outputs.
+- **Lesson learned**: Structured sections and explicit exclusions make prompt outputs more reliable for recurring business workflows.
 
 ---
 
