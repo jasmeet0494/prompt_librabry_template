@@ -1,6 +1,6 @@
-# P01 · Receivables Analysis 
+# P08 · Receivables Analysis 
 
-- **Section: 05** — Working Capital and Collections Support
+- **Section: 04** — Receivable Review & Follow UP
 - **Workflow step**: Step 1 of 3
 - **Current version**: v1.2
 - **Status**: Tested and suitable with human review
