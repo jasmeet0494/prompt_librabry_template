@@ -1,6 +1,6 @@
 # P09 · WoW Sales Forecast Comparison
 
-- **Section**: 02 — Weekly Financial Performance Analysis
+- **Section**: 06 — Weekly Forecast Movement Workflow
 - **Workflow step**: Step 3 of 4
 - **Current version**: v1.2
 - **Status**: Tested and suitable with human review
