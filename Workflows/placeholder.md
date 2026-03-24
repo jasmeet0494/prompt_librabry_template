@@ -16,7 +16,7 @@ This section supports the weekly revenue reporting workflow by turning masterfil
 
 Weekly masterfile received and validated<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▼<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▼<br>
 P02 · Weekly masterfile review → Converts masterfile data into a structured KPI table for account-level review<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▼<br>
