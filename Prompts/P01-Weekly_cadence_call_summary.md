@@ -58,8 +58,8 @@ When notes are taken manually:
 - Action owners may not be captured clearly
 - Meeting summaries may vary in quality depending on who writes them
 - Follow-up can become inconsistent
-- PMO spends spends (1 hour) each week listening to the calls and roughly (20 mins) converting rough notes to usable business communication.
-- With AI drafting (5 mins) and PMO review (5 mins) saves 70 Mins each week annualized to (70 Hours) saved per year.
+- PMO spends spends ( **1 hour** ) each week listening to the calls and roughly (** 20 mins** ) converting rough notes to usable business communication.
+- With AI drafting ( **5 mins** ) and PMO review ( **5 mins** ) saves ( **70 Mins** ) each week annualized to ( **60 Hours** ) saved per year.
 
 In practice, one person often needs to listen carefully during the call, take notes live, clean those notes afterward, turn them into a structured summary, and identify action items for multiple teams. This creates a recurring administrative burden in a high-frequency workflow.
 
