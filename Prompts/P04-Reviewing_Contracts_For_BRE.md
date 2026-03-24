@@ -1,4 +1,4 @@
-# P01 · Weekly cadence call summary and action tracker
+# P01 · Reviewing Contracts for BRE
 
 - **Section: 03** — Contract and Renewal Support
 - **Workflow step**: Step 1 of 3
