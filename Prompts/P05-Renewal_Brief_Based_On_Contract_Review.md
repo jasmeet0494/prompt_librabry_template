@@ -1,6 +1,6 @@
 # P05 · Renewal Brief based on Contract Review
 
-- **Section**: 02 — Contract and Renewal Support
+- **Section**: 02 — Contract Renewal & Pricing Support
 - **Workflow step**: Step 2 of 3
 - **Current version**: v1.2
 - **Status**: ✅ Tested and suitable with human review
