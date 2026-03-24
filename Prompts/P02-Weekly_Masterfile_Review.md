@@ -1,6 +1,6 @@
 # P02 · Weekly Masterfile Review
 
-- **Section**: 02 — Weekly Financial Performance Analysis
+- **Section**: 01 — Weekly Financial Performance Analysis
 - **Workflow step**: : Step 1 of 4
 - **Current version**: v1.2
 - **Status**: ✅ Tested and suitable with human review
