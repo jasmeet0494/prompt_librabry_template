@@ -14,15 +14,13 @@ This section supports the contract renewal workflow by helping finance and comme
 
 ## Chain Diagram
 
-Client contract selected for renewal review
-      │
-      ▼
-P04 · Contract review for COLA and billing-rate uplift opportunities
-      → Extracts pricing-related clauses, COLA details, and renewal terms relevant to billing-rate increase
-      │
-      ▼
-P05 · Renewal negotiation brief based on contract review
-      → Converts reviewed contract findings into an internal brief for pricing uplift discussion
+Client contract selected for renewal review<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▼<br>
+P04 · Contract review for COLA and billing-rate uplift opportunities → Extracts pricing-related clauses, COLA details, and renewal terms relevant to billing-rate increase<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▼<br>
+P05 · Renewal negotiation brief based on contract review → Converts reviewed contract findings into an internal brief for pricing uplift discussion
 
 ## Prompts
 
