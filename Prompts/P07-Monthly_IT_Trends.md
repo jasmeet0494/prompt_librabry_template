@@ -1,6 +1,6 @@
 # P07 · Monthly IT Trends Summary For Financial Planning
 
-- **Section: 04** — Client Planning and Budget Support
+- **Section: 03** — Client Planning and Budget Support
 - **Workflow step**: Step 2 of 3
 - **Current version**: v1.2
 - **Status**: Tested and suitable with human review
