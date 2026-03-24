@@ -1,6 +1,6 @@
-# P01 · Reviewing Contracts for BRE
+# P04 · Reviewing Contracts for BRE
 
-- **Section: 03** — Contract and Renewal Support
+- **Section: 02** — Contract and Renewal Support
 - **Workflow step**: Step 1 of 3
 - **Current version**: v1.2
 - **Status**: Tested and suitable with human review
