@@ -22,26 +22,26 @@ Include the following sections
       - [New Bookings] in the Orderbook
       - [Deals Value] in L1 Stage (Final) in the Pipeline
       - [Total Headcount]
-3. Performance commentary (Briefly explain the most important movements, changes, or issues affecting the region based on the KPI table and validated insights. Focus on what senior management would need to know immediately)
-4. Closing line (End with a professional closing sentence offering further detail if required)
+3. Performance commentary ( Briefly explain the most important movements, changes, or issues affecting the region based on the KPI table and validated insights. Focus on what senior management would need to know immediately )
+4. Closing line ( End with a professional closing sentence offering further detail if required )
 
 Rules:
 
-Tone: concise, factual and professional
-Length : Maximum 220 words
-Use only the information provided in [KPI_TABLE] and [Top Performance Highlights].
-Do not invent figures, explanations, or business reasons not supported by the input.
-If any KPI is unclear or missing, state “Needs validation”.
+- Tone: concise, factual and professional
+- Length : Maximum 220 words
+- Use only the information provided in [KPI_TABLE] and [Top Performance Highlights].
+- Do not invent figures, explanations, or business reasons not supported by the input.
+- If any KPI is unclear or missing, state “Needs validation”.
 
 Placeholders to fill:
 
-[KPI_TABLE] = Validated KPI table generated from the weekly masterfile
-[Top Performance Highlights] = Validated highlights and issues identified during finance review
-[REGION] = Relevant business region
-[REPORTING_PERIOD] = Week or date range being reported
-[New Booking] = Total Booking value from the Orderbook
-[Deal Value] = Total Value of deals in the L1 stage in the pipeline
-[Headcount] = Total employees being billed from fulfillment data
+- [KPI_TABLE] = Validated KPI table generated from the weekly masterfile
+- [Top Performance Highlights] = Validated highlights and issues identified during finance review
+- [REGION] = Relevant business region
+- [REPORTING_PERIOD] = Week or date range being reported
+- [New Booking] = Total Booking value from the Orderbook
+- [Deal Value] = Total Value of deals in the L1 stage in the pipeline
+- [Headcount] = Total employees being billed from fulfillment data
 
 ---
 
@@ -49,10 +49,10 @@ Placeholders to fill:
 
 This prompt is step 2 of the weekly communication stage of the finance reporting workflow.
 
-Trigger: Weekly KPI analysis has been completed and reviewed
-Actor: Finance analyst or finance business partner
-Timing: During weekly reporting cycle before leadership review
-Next step: Output is reviewed and then sent to senior management
+- Trigger: Weekly KPI analysis has been completed and reviewed
+- Actor: Finance analyst or finance business partner
+- Timing: During weekly reporting cycle before leadership review
+- Next step: Output is reviewed and then sent to senior management
 
 Workflow chain:
 Masterfile received → KPI table created → key insights reviewed by finance → prompt runs → finance reviews draft email → update sent to senior management
