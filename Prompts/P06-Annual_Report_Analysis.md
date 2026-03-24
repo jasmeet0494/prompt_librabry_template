@@ -1,6 +1,6 @@
 # P06 · Annual Report Analysis For IT Strategy
 
-- **Section**: 03 — Client Planning and Budget Support
+- **Section**: 03 — Market Intelligence
 - **Workflow step**: Step 1 of 3
 - **Current version**: v1.2
 - **Status**: Tested and suitable with human review
