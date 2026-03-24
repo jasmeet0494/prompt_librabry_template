@@ -24,13 +24,13 @@ Include the following sections:
    - Status of Deals in Pipeline
 3. Action Items (Create a table with Action, Owner, Deadline (If Mentioned), Status Note)
 
-Tone: concise, factual and professional
-Do not invent owners, deadlines, figures, or decisions.
-If any point is unclear, write “Not clearly stated”.
+- Tone: concise, factual and professional
+- Do not invent owners, deadlines, figures, or decisions.
+- If any point is unclear, write “Not clearly stated”.
 
 Placeholders to fill:
 
-[MEETING_TRANSCRIPT] = Full transcript of weekly cadence call
+- [MEETING_TRANSCRIPT] = Full transcript of weekly cadence call
 
 ---
 
@@ -38,10 +38,10 @@ Placeholders to fill:
 
 This prompt supports the documentation stage of a recurring weekly revenue cadence meeting.
 
-Trigger: Weekly cadence call concludes
-Actor: Finance PMO
-Timing: Within 1–2 hours after the meeting
-Next step: Output is reviewed, circulated to stakeholders, and used to track actions before the next meeting
+- Trigger: Weekly cadence call concludes
+- Actor: Finance PMO
+- Timing: Within 1–2 hours after the meeting
+- Next step: Output is reviewed, circulated to stakeholders, and used to track actions before the next meeting
 
 Workflow chain:
 Cadence call held → transcript/raw notes available → prompt runs → analyst reviews output → summary shared with finance, sales, and delivery teams.
@@ -54,12 +54,12 @@ Weekly cadence calls often involve several stakeholders discussing revenue perfo
 
 When notes are taken manually:
 
-key points may be missed
-action owners may not be captured clearly
-meeting summaries may vary in quality depending on who writes them
-follow-up can become inconsistent
-PMO spends spends (1 hour) each week listening to the calls and roughly (20 mins) converting rough notes to usable business communication. 
-With AI drafting (5 mins) and PMO review (5 mins) saves 70 Mins each week annualized to (70 Hours) saved per year.
+- Key points may be missed
+- Action owners may not be captured clearly
+- Meeting summaries may vary in quality depending on who writes them
+- Follow-up can become inconsistent
+- PMO spends spends (1 hour) each week listening to the calls and roughly (20 mins) converting rough notes to usable business communication.
+- With AI drafting (5 mins) and PMO review (5 mins) saves 70 Mins each week annualized to (70 Hours) saved per year.
 
 In practice, one person often needs to listen carefully during the call, take notes live, clean those notes afterward, turn them into a structured summary, and identify action items for multiple teams. This creates a recurring administrative burden in a high-frequency workflow.
 
@@ -79,10 +79,10 @@ Level: High, with human review required
 
 Human-in-the-loop role:
 
-check that the summary reflects the discussion accurately
-confirm action owners and deadlines
-remove any sensitive details not suitable for wider circulation
-approve the final version before sending
+- check that the summary reflects the discussion accurately
+- confirm action owners and deadlines
+- remove any sensitive details not suitable for wider circulation
+- approve the final version before sending
 
 If a business runs multiple cadence calls each week across regions or accounts, this prompt could standardise meeting outputs and improve action tracking at scale.
 
