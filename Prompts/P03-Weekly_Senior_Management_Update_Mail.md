@@ -1,4 +1,4 @@
-# P01 · Weekly cadence call summary and action tracker
+# P01 · Weekly Senior Management Update Mail
 
 - **Section: 02** — Weekly Financial Performance Analysis
 - **Workflow step**: Step 2 of 4
