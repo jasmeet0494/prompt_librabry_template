@@ -1,6 +1,6 @@
-# P01 · Receivables Follow Up Draft Email
+# P10 · Receivables Follow Up Draft Email
 
-- **Section**: 05 — Working Capital and Collections Support
+- **Section**: 04 — Receivables review & Follow Up
 - **Workflow step**: Step 2 of 3
 - **Current version**: v1.2
 - **Status**: Tested and suitable with human review
