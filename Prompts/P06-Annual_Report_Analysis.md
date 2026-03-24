@@ -64,11 +64,13 @@ The problem being solved is therefore the manual effort, inconsistency, and plan
 
 Level: Medium to high, with mandatory human review
 
-Repetitiveness: Medium — annual report review is recurring across clients and planning cycles
-Data availability: Medium — relevant information exists in annual reports, but direct IT spend may not be stated
-Human judgment needed: High — interpretation and planning assumptions require analyst review
-Integration possibility: Can be linked to research workflows, account-planning templates, or budgeting support processes
-Estimated time saving: Around 40–60% reduction in first-pass document review and note preparation time
+| Dimension              | Assessment                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| Repetitiveness         | Medium — annual report review is recurring across clients and planning cycles |
+| Data availability      | Medium — relevant information exists in annual reports, but direct IT spend may not be stated |
+| Human judgment needed  | High — interpretation and planning assumptions require analyst review       |
+| Integration possibility| Can be linked to research workflows, account‑planning templates, or budgeting support processes |
+| Estimated time saving  | Around 40–60% reduction in first-pass document review and note preparation time |
 
 Human-in-the-loop role:
 
