@@ -30,15 +30,15 @@ Include the following sections:
 4. Top performance highlights (After the table, summarise strongest performing accounts, accounts with significant changes in revenue or margin
 5. Executive summary (Write a short summary in no more than 120 words for senior management)
 
-Tone: concise, factual and professional
-Use only the data provided in [MASTERFILE_DATA].
-Do not invent figures, reasons, or explanations not supported by the data.
-If any value is missing, inconsistent, or unclear, mark it as “Needs validation”.
+- Tone: concise, factual and professional
+- Use only the data provided in [MASTERFILE_DATA].
+- Do not invent figures, reasons, or explanations not supported by the data.
+- If any value is missing, inconsistent, or unclear, mark it as “Needs validation”.
 
 Placeholders to fill:
 
-[MASTERFILE_DATA] = Weekly financial masterfile containing account-level performance data
-[REGION] = Relevant business region
+- [MASTERFILE_DATA] = Weekly financial masterfile containing account-level performance data
+- [REGION] = Relevant business region
 
 ---
 
@@ -62,12 +62,12 @@ Finance teams receive a weekly masterfile containing updated actuals, margins, b
 
 When this process is done manually:
 
-Financial Analyst spends (1 Hour) creating a clean comparison table across all accounts 
-Important movements can be missed in large datasets
-repeated weekly updates create rework
-quick account-to-account comparison becomes slower
-finance teams spend unnecessary effort turning raw data into an analysis-ready format
-52 Hours per year eliminated doing repetitive work
+- Financial Analyst spends **(1 Hour)** creating a clean comparison table across all accounts
+- Important movements can be missed in large datasets
+- Repeated weekly updates create rework
+- Quick account-to-account comparison becomes slower
+- Finance teams spend unnecessary effort turning raw data into an analysis-ready format
+- With AI **( 52 Hours )** per year eliminated doing repetitive work
 
 In practice, analysts often need the information in a tabular format first so they can scan performance quickly and decide which accounts need deeper investigation. The business problem is therefore the manual effort, inconsistency, and inefficiency involved in converting the weekly masterfile into a decision-ready KPI view.
 
@@ -86,11 +86,11 @@ In practice, analysts often need the information in a tabular format first so th
 
 Human-in-the-loop role:
 
-verify that the KPI table matches the source data
-confirm whether major variances are materially important
-validate unclear or unusual figures
-add business context where needed
-approve the final output before circulation
+- Verify that the KPI table matches the source data
+- Confirm whether major variances are materially important
+- Validate unclear or unusual figures
+- Add business context where needed
+- Approve the final output before circulation
 
 This prompt is suitable for partial automation, especially for preparing a first-pass analysis table, but should not replace finance review.
 
