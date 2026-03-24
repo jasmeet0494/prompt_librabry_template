@@ -15,7 +15,7 @@ This section supports the weekly revenue reporting workflow by turning masterfil
 ## Chain Diagram
 
 Weekly masterfile received and validated<br>
-&nbps;|<br>
+&nbsp;|<br>
 ▼<br>
 P02 · Weekly masterfile review → Converts masterfile data into a structured KPI table for account-level review<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
