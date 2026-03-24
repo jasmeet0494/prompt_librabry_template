@@ -26,10 +26,10 @@ P03 · Weekly senior management finance update email → Uses the validated KPI 
 
 ## Prompts
 
-| File                                               | Prompt                                           | Status              |
-|----------------------------------------------------|--------------------------------------------------|---------------------|
-| Prompts/P02-Weekly_Masterfile_Review.md | Weekly masterfile KPI table and performance review | ✅ Tested — v1.2     |
-| P03-weekly-senior-management-finance-update-email.md      | Weekly senior management finance update email     | ✅ Tested — v1.2     |
+| File | Prompt | Status |
+|---|---|---|
+| [P02-Weekly_Masterfile_Review.md](../Prompts/P02-Weekly_Masterfile_Review.md) | Weekly masterfile KPI table and performance review | ✅ Tested — v1.2 |
+| [P03-weekly-senior-management-finance-update-email.md](../Prompts/P03-weekly-senior-management-finance-update-email.md) | Weekly senior management finance update email | ✅ Tested — v1.2 |
 
 ---
 
