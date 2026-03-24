@@ -1,6 +1,6 @@
-# P01 · Weekly Senior Management Update Mail
+# P03 · Weekly Senior Management Update Mail
 
-- **Section: 01** — Weekly Financial Performance Analysis
+- **Section: 01** — Weekly Revenue Reporting
 - **Workflow step**: Step 2 of 4
 - **Current version**: v1.2
 - **Status**: ✅ Tested and suitable with human review
