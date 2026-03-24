@@ -65,12 +65,12 @@ After the weekly masterfile has been analysed, finance teams still need to manua
 
 When this is done manually:
 
-Financial Analyst spends 45 Mins each week drafting the mail and proof reading it
-Messaging may vary depending on who prepares the update
-Important KPI movements may not be communicated clearly
-Executives may receive inconsistent levels of detail across reporting cycles
-Analysts spend time converting structured analysis into concise leadership communication
-With AI (39 Hours) saved per year doing repetitive work
+- Financial Analyst spends 45 Mins each week drafting the mail and proof reading it
+- Messaging may vary depending on who prepares the update
+- Important KPI movements may not be communicated clearly
+- Executives may receive inconsistent levels of detail across reporting cycles
+- Analysts spend time converting structured analysis into concise leadership communication
+- With AI **(39 Hours)** saved per year doing repetitive work
 
 In practice, the business need is not additional analysis, but the ability to translate validated financial insights into a short, clear update that supports management visibility and decision-making.
 
@@ -92,11 +92,11 @@ Level: High, with human review required
 
 Human-in-the-loop role:
 
-check that all figures and variances are accurate
-confirm the tone is appropriate for senior management
-validate whether the highlighted issues are materially important
-add business context where required
-approve the final version before circulation
+- Check that all figures and variances are accurate
+- Confirm the tone is appropriate for senior management
+- Validate whether the highlighted issues are materially important
+- Add business context where required
+- Approve the final version before circulation
 
 This prompt is well suited to first-draft automation, but final review should remain with finance.
 
