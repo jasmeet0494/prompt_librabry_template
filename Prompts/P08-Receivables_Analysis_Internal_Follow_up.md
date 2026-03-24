@@ -1,4 +1,4 @@
-# P01 · Receivables Analysis & Internal Follow Up
+# P01 · Receivables Analysis 
 
 - **Section: 05** — Working Capital and Collections Support
 - **Workflow step**: Step 1 of 3
