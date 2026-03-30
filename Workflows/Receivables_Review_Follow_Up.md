@@ -1,8 +1,8 @@
 # 📂 04 — Receivables Review and Follow-up Workflow
 
-**Business function** : Finance / Working Capital / Collections Support
-**Trigger**: Accounts receivable ageing report is available and overdue items need internal follow-up
-**Prompts in this section**: P08, P10
+- **Business function** : Finance / Working Capital / Collections Support
+- **Trigger**: Accounts receivable ageing report is available and overdue items need internal follow-up
+- **Prompts in this section**: P08, P10
 
 ---
 
