@@ -81,27 +81,27 @@ Risk levels: High = always needs human review, Medium = reviewer validation requ
 
 Some prompts in this library are designed to work in sequence. The chains below show how outputs from one prompt feed the next.
 
-WEEKLY REVENUE REPORTING CHAIN
+**WEEKLY REVENUE REPORTING CHAIN**
 
 P02 (Weekly masterfile KPI table and performance review)
 → P03 (Weekly senior management finance update email)
 
-CONTRACT RENEWAL AND PRICING SUPPORT CHAIN
+**CONTRACT RENEWAL AND PRICING SUPPORT CHAIN**
 
 P04 (Contract review for COLA and billing-rate uplift opportunities)
 → P05 (Renewal negotiation brief based on contract review)
 
-CLIENT PLANNING AND MARKET INTELLIGENCE CHAIN
+**CLIENT PLANNING AND MARKET INTELLIGENCE CHAIN**
 
 P06 (Client annual report analysis for IT strategy and inferred IT spend)
 → P07 (Monthly IT market trends summary for finance planning)
 
-RECEIVABLES REVIEW AND FOLLOW-UP CHAIN
+**RECEIVABLES REVIEW AND FOLLOW-UP CHAIN**
 
 P08 (Overdue receivables analysis and internal follow-up preparation)
 → P10 (Internal issue follow-up email draft)
 
-STANDALONE WORKFLOWS
+**STANDALONE WORKFLOWS**
 
 P01 supports weekly cadence call documentation as a standalone workflow.
 P09 supports weekly forecast movement review as a standalone workflow.
