@@ -1,4 +1,4 @@
-# 📚 Prompt Library — Finance Planning and Commercial Support
+# 📚 Prompt Library — Finance Planning and Analysis
 
 - **Assessment 1** | Generative AI for Business
 - **Student**: Jasmeet Singh | Business Field: Financial Planning and Analysis
