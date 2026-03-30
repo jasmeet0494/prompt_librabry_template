@@ -1,7 +1,7 @@
 # P01 · Weekly cadence call summary and action tracker
 
 - **Section**: 05 — Weekly Cadence Call Documentation
-- **Workflow step**: Step 1 of 3
+- **Workflow step**: Step 1 of 1
 - **Current version**: v1.2
 - **Status**: ✅ Tested and suitable with human review
 - **Last updated**: March 2026
