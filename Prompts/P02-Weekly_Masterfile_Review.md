@@ -1,7 +1,7 @@
 # P02 · Weekly Masterfile Review
 
 - **Section**: 01 — Weekly Revenue Reporting
-- **Workflow step**: : Step 1 of 4
+- **Workflow step**: : Step 1 of 2
 - **Current version**: v1.2
 - **Status**: ✅ Tested and suitable with human review
 - **Last updated**: March 2026
