@@ -1,7 +1,7 @@
 # P09 · WoW Sales Forecast Comparison
 
 - **Section**: 06 — Weekly Forecast Movement Workflow
-- **Workflow step**: Step 3 of 4
+- **Workflow step**: Step 1 of 1
 - **Current version**: v1.2
 - **Status**: Tested and suitable with human review
 - **Last updated**: March 2026
