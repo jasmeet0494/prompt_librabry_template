@@ -1,7 +1,7 @@
 # P07 · Monthly IT Trends Summary For Financial Planning
 
 - **Section: 03** — Market Intelligence
-- **Workflow step**: Step 2 of 3
+- **Workflow step**: Step 2 of 2
 - **Current version**: v1.2
 - **Status**: Tested and suitable with human review
 - **Last updated**: March 2026
