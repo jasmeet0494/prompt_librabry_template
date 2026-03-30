@@ -1,7 +1,7 @@
 # P08 · Receivables Analysis 
 
 - **Section: 04** — Receivable Review & Follow UP
-- **Workflow step**: Step 1 of 3
+- **Workflow step**: Step 1 of 2
 - **Current version**: v1.2
 - **Status**: Tested and suitable with human review
 - **Last updated**: March 2026
